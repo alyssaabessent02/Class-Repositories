@@ -18,7 +18,7 @@ remote_theme: douglasurner/canvas
 
 <details>
   <summary>4th Block</summary>
-  
+  * [Alyssa B.](https://github.com/alyssaabessent02)
   * [Madison A.](https://github.com/wowitsmadiao)
   * [Emma H.](https://github.com/fcr-harris)
   * [Sadie S.](https://github.com/SShadduck13)
